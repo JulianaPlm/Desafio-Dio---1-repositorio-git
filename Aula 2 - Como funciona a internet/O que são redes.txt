@@ -1,3 +1,5 @@
+uma rede consiste em dois ou mais computadores que estão conectados para compartilhar informações
+
 Backbone (espinha-dorsal) - Termo usado para identificar a rede principal pela qual os dados de todos os clientes da internet passam. Ela é responsável por interligar servidores que estão distantes.
 
 Provedor de acesso -  O Provedor de Acesso é considerado um intermediador de serviços. Ou seja, por meio dos diversos planos e pacotes oferecidos aos seus clientes, ele permite que o usuário se conecte à rede.
