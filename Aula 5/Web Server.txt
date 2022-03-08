@@ -1,0 +1,5 @@
+Existem dois tipos de web server:
+
+1 -Estático - Servidor físico onde são armazenados arquivos, softwares e/ou banco de dados
+
+2 - Dinâmico - São os softwares que estão no servidor físico

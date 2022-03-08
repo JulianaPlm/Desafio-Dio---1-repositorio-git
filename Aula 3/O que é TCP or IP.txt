@@ -1,0 +1,26 @@
+São protocolos de comunicação entre computadores em rede
+
+TCP = Transmission Control Protocol ( Protocolo de Controle de Transmissão)
+
+
+Uma comunicação precisa passar por 4 camadas antes de começar a transmissão 
+1. Física (ex: Placa de rede)
+2. Rede (ex: IP)
+3. Transporte (ex: TCP, UDP)
+4. Aplicação (EX: FTP, SMTP, HTTP)
+
+Diferença entre TCP X UDP
+2 formas de conexão
+
+UDP
+* Rápido
+* Não confiável
+* Carro do Ovo (envia sinais para qualquer pessoa)
+* Livestream
+
+TCP
+* Um pouco mais lento que o UDP
+* Voltado à conexão
+* Handshake
+* Integridade, ordem dos dados
+* Aplicativo de mensagens de texto

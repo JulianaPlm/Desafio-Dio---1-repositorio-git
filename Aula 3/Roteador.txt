@@ -1,0 +1,5 @@
+Distribui internet para um ou mais dispositivos de uma rede
+
+O roteador é "Burro" (mas atualmente é inteligente)
+
+O Switch é mais "Inteligente"

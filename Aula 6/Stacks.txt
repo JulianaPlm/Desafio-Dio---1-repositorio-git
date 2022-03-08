@@ -1,0 +1,5 @@
+São Pilhas de tecnologia
+
+Conjunto de softwares necessários para executar um aplicatico/programa
+
+A stack é uma porção contígua de memória reservada para empilhar os dados necessários durante a execução de blocos de código.

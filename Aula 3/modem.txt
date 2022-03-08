@@ -1,0 +1,7 @@
+Modem - Modulador-demodulator
+
+
+Trata-se de um aparelho utilizado na informática para converter os sinais digitais em sinais analógicos e vice-versa, de modo a poderem ser transmitidos de forma inteligível.
+
+
+Sinais Digitais e Sinais Analógicos são duas formas de transferir sinais

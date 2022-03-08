@@ -1,0 +1,5 @@
+É um navegador
+
+
+Página Estática e Página Dinâmica
+A página estática quase não tem interação com o usuario, diferente da dinâmica

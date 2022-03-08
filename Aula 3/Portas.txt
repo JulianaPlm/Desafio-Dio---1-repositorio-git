@@ -1,0 +1,4 @@
+Porta é a tradução errado de "port" que significa "porto", é nela onde os dados sairão e chegarão.
+
+
+
